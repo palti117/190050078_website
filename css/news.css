@@ -33,9 +33,9 @@ a {
   margin: 0 auto;
   width: max-content;
 }
-@media(max-width:550px){
+@media(max-width:600px){
 .card-my{
-  margin-top: 150px;
+  margin-top: 200px;
   
 }
 }
