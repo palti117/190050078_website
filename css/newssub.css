@@ -33,6 +33,9 @@ h1{
 }
 
 @media(max-width:500px){
+	.back{
+		margin-top: 200px;
+	}
 	.details{
 		width:100%;
 		font-size: 0.75em;
